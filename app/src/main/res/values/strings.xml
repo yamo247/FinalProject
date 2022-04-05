@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Studdy Buddy</string>
+
+    <string name="EnDictionary">Please visit <a href="https://dictionary.cambridge.org/"> english dictionary</a></string>
+
+    <string name="ArDictionary">Please visit <a href="almaany.com/en/dict/ar-en/"> arabic dictionary</a></string>
+
+
+    <string name="wordle"> Game 1: <a href="https://www.nytimes.com/games/wordle/index.html"> wordle </a></string>
+    <string name="typeracer"> Game 2: <a href="https://play.typeracer.com/"> typeracer </a></string>
+    <string name="wordbomb"> Game 3: <a href="https://jklm.fun/"> wordbomb </a></string>
+    <string name="fbnwg"> Game 4: <a href="https://fireboyand-watergirl.co/"> fireboy and watergirl </a></string>
+    <string name="slither"> Game 5: <a href="http://slither.io/"> slither.io </a></string>
+
+</resources>
